@@ -5,5 +5,7 @@ I wont be providing a guide to building one yourself at this time. Too damn lazy
 
 This is less a "Download and use in 5 clicks" thing and more of a "study this code and make your own" thing.
 
+https://streamable.com/qd5nbc
+
 # Planned Changes
 Eventually I'll make it work with the bHaptics avatar integration shit for VRChat avatars. Maybe even go so far as making it wireless and work with the bHaptics Player, who knows.
