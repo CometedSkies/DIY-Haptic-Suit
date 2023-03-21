@@ -11,7 +11,7 @@ using System.Linq;
 public class Haptics : MonoBehaviour
 {
     [Header("Variables")]
-    SerialPort puerto = new SerialPort("COM4", 9600);
+    SerialPort puerto = new SerialPort("COM5", 9600);
     public OscReceiver vrcReceiver;
     public OscSender sender;
 
